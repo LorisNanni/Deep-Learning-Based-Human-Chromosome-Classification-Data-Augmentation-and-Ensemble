@@ -13,3 +13,5 @@ if the color is not uniform (or it uniform but no white or black) it is necessar
 Moreover, in ExampleDataAugmentation.m, we show how to train the ResNet50, for more details on how to use ResNet50 in matlab you can read:
 
 mathworks.com/help/deeplearning/ug/train-deep-learning-network-to-classify-new-images.html
+
+For SWIN we have used https://timm.fast.ai/
